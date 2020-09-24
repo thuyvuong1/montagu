@@ -46,7 +46,7 @@ def generate():
         "UND-Moore": ["JE"],
         "UND-Perkins": ["YF"],
         "Yale-Pitzer": ["Typhoid"],
-        "VIMC" ["Tyhoid", "Cholera"]
+        "VIMC" ["Typhoid", "Cholera"]
     }
 
     group_PIs = {
